@@ -7,7 +7,7 @@ Use this template if you want to try something out quickly and profit from the `
 ## Usage
 
 ```sh
-npx create-react-app myproject --template @callor/cra-template-simple
+npx create-react-app myproject --template @callor/cra-simple
 cd myproject
 npm start
 ```
