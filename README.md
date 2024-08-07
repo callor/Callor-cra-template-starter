@@ -1,4 +1,4 @@
-# Simple create-react-app Template
+# Simple Starter create-react-app Template
 
 A very simple starter template for [create-react-app](https://create-react-app.dev).
 
