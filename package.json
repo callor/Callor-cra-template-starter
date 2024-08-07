@@ -1,5 +1,5 @@
 {
-  "name": "@callor/cra-simple",
+  "name": "cra-template-starter",
   "version": "0.8.1",
   "description": "simple starter template for create-react-app",
   "author": "Bosco John <callor@callor.com>",
