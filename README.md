@@ -14,6 +14,25 @@ npm start
 
 The template creates the following code structure
 
+`public/index.html`:
+
+```html
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>Hello React</title>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
+```
+
 `src/index.js`:
 
 ```js
