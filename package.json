@@ -1,6 +1,6 @@
 {
   "name": "cra-template-starter",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "description": "simple starter template for create-react-app",
   "author": "Bosco John <callor@callor.com>",
   "main": "template.json",
